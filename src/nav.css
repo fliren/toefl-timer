@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .circle-button {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    color: #34036c;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 10px;
+  }
